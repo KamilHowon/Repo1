@@ -2,11 +2,21 @@
 
 using namespace std;
 
+int wejscie;
+
 int main()
 {
-    cout << "Hello World!"<<endl;
-    cout << "Hello World!"<<endl;
-    cout << "Hello World!"<<endl;
-
+    cout << "Podaj swoja ulubiona liczbe" << endl;
+    cin >> wejscie;
+    cout << "Twoja ulubiona liczba to: "<<wejscie << endl;
     return 0;
 }
+
+
+
+
+
+
+
+
+
