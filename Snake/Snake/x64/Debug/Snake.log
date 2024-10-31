@@ -1,0 +1,9 @@
+﻿  Snake.cpp
+C:\Users\kamil\Documents\GitHub\Repo1\Snake\Snake\Snake.cpp(14,24): error C2059: błąd składniowy: „;”
+C:\Users\kamil\Documents\GitHub\Repo1\Snake\Snake\Snake.cpp(17,5): error C2059: błąd składniowy: „return”
+C:\Users\kamil\Documents\GitHub\Repo1\Snake\Snake\Snake.cpp(17,12): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\kamil\Documents\GitHub\Repo1\Snake\Snake\Snake.cpp(17,12): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)
+C:\Users\kamil\Documents\GitHub\Repo1\Snake\Snake\Snake.cpp(18,1): error C2059: błąd składniowy: „}”
+C:\Users\kamil\Documents\GitHub\Repo1\Snake\Snake\Snake.cpp(18,1): error C2143: błąd składniowy: brakuje „;” przed „}”
+C:\Users\kamil\Documents\GitHub\Repo1\Snake\Snake\Snake.cpp(24,1): error C2143: błąd składniowy: brakuje „;” przed „{”
+C:\Users\kamil\Documents\GitHub\Repo1\Snake\Snake\Snake.cpp(24,1): error C2447: "{": brak nagłówka funkcji (stary styl formalnej listy?)

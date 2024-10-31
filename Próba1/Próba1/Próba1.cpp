@@ -2,24 +2,24 @@
 
 using namespace std;
 
-int first, second;
+int main()
+{
 
+
+    return 0;
+}
+
+
+/*Zadanie 1.2.7
+int first, second;
 int main()
 {
     cout << "Podaj swoja ulubiona liczbe" << endl;
     cin >> first;
     second = first + 1;
-
     cout << "Twoja ulubiona liczba po dodanu jedynki to: " << second << endl;
     return 0;
-}
-
-
-
-
-
-
-
+}*/
 /*Zadanie 1.2.4
 * int wejscie;
 int main()
