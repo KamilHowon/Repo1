@@ -1,2 +1,15 @@
-﻿  NaukaSFML.cpp
+﻿  main.cpp
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(56,25): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(56,21): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(129,29): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(129,26): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(133,25): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(133,22): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(135,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(173,23): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(173,19): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(182,28): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(182,24): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(194,26): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\NaukaSFML\main.cpp(194,23): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
   NaukaSFML.vcxproj -> C:\Users\kamil\Documents\GitHub\Repo1\NaukaSFML\Debug\NaukaSFML.exe
